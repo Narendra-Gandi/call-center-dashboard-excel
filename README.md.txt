@@ -51,7 +51,7 @@ call-center-dashboard-excel
 └── README.md → Project documentation
 
 ## Dashboard Preview
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard_preview.png.png)
 The screenshot below shows the final dashboard created in Excel.
 
 
